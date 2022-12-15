@@ -4,17 +4,14 @@
 
 - ༼ つ ◕_◕ ༽つ Atualmente estou estudando JAVA e html!
 - (❁´◡`❁) Pode me perguntar qualquer coisa!
-- (●'◡'●) Pronouns: ela/dela
 - (☞ﾟヮﾟ)☞ Fun fact: Meu cachorro roubou minha cadeira :/
---> 😜
 
 <div align="center">
   <a href="https://github.com/CrisRezz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crisrezz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisrezz&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="90em" src="https://github-readme-stats.vercel.app/api?username=crisrezz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisrezz&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  <img align="center" alt="Cris-ja" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
- 
  
  <img align="right" alt="Cris-pic" height="150" style="border-radius:50px;" src="https://tenor.com/7vHW.gif">
 ##
