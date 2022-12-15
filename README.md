@@ -15,7 +15,7 @@
  <img align="center" alt="Cris-ja" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
  <img align="center" alt="Cris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <div style="display: inline_block"><br>
-  <img align="right" alt="Cris-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/111918339/207887381-9f323838-0727-4ff5-8b33-1b39c9067535.gif">
+  <img align="right" alt="Cris-pic" height="160" style="border-radius:50px;" src="https://user-images.githubusercontent.com/111918339/207887381-9f323838-0727-4ff5-8b33-1b39c9067535.gif">
 
   <a href="https://www.youtube.com/channel/UCJbkdFW9w6La1XrddJB66cQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/cris.rezz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
